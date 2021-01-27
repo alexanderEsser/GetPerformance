@@ -1,0 +1,6 @@
+C:\Users\Alex\RiderProjects\GetPerformance\GetPerformance\obj\Debug\GetPerformance.csprojAssemblyReference.cache
+C:\Users\Alex\RiderProjects\GetPerformance\GetPerformance\obj\Debug\GetPerformance.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\GetPerformance\GetPerformance\bin\Debug\GetPerformance.exe
+C:\Users\Alex\RiderProjects\GetPerformance\GetPerformance\bin\Debug\GetPerformance.pdb
+C:\Users\Alex\RiderProjects\GetPerformance\GetPerformance\obj\Debug\GetPerformance.exe
+C:\Users\Alex\RiderProjects\GetPerformance\GetPerformance\obj\Debug\GetPerformance.pdb
